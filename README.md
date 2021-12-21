@@ -12,11 +12,11 @@
 * Updated Readme.md
 
 ## Gif of refactored website
-![Readme Sample](/assets/images/readme-generator-sample.gif)
+![Work Day Scheduler Sample](/assets/images/work-day-scheduler.gif)
 
 ## Deployed Web App URL
 
-* 
+* https://nnikhil84.github.io/work-day-scheduler.github.io/
 
 ## Git hub repository URL
 
