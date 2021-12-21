@@ -20,4 +20,4 @@
 
 ## Git hub repository URL
 
-* https://github.com/nnikhil84/readme.generator.github.io
+* https://github.com/nnikhil84/work-day-scheduler.github.io 
